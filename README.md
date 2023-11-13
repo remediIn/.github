@@ -1,2 +1,2 @@
 # .github
-Recepie for Homepage README brewing!
+Recipe for Homepage README brewing!
